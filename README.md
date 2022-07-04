@@ -8,11 +8,7 @@
 
 ### Initially you are given 25 projectiles to throw. When you are out of projectiles it will automatically restart the game :)
 
-
-
-https://user-images.githubusercontent.com/92587188/177141902-d34c7128-f01b-47df-a021-7c9f35b71335.mp4
-
-
+### Dive In and have a blast :)
 
 https://user-images.githubusercontent.com/92587188/177142294-5c4c57f3-3c9b-46e1-9833-fa953a86fd51.mp4
 

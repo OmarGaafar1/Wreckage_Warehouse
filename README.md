@@ -4,4 +4,4 @@
 
 ## How To Play >> You can move in any direction using WASD keys , your mouse to navigate and rotate , Throw projectiles using SPACE Key .
 
-## Intitialyy you are given 25 projectiles to throw. When you are out of projectiles it will automatically restart the game :)
+## Initialy you are given 25 projectiles to throw. When you are out of projectiles it will automatically restart the game :)

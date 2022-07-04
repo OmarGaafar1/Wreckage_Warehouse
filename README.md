@@ -1,4 +1,4 @@
-# Wreckage_Warehouse
+# Wreckage_Warehouse Game
 
 ## Game Description >> You are at a warehouse , it contains of some barreles and other stuffs , your job  is to make a chaoes by throwing up projectiles on things to miss it up .
 
